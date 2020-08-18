@@ -1,0 +1,3 @@
+def créditos():
+    print("menu")
+    

@@ -1,1 +1,2 @@
-#Estamos en desarrollo, Próximamente vas a poder ver el código del juego
+from Scripts.menu import menu
+menu()

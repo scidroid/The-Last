@@ -1,0 +1,2 @@
+def juego():
+    print("menu")
