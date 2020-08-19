@@ -1,2 +1,2 @@
-from Scripts.menu import menu
+from scripts.menu import menu
 menu()

@@ -1,4 +1,4 @@
-def menu():
+def warning():
     import time
     from cls import cls
     print("""
